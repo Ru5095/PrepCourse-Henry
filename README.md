@@ -1,1 +1,1 @@
-# PrepCourse-Henry
+Este proyecto es una prueba de cómo clonoar un repositorio y clonarlo desde github a mi pc.
